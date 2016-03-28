@@ -1,0 +1,17 @@
+Files:
+
+# PPTP vpn plugin bundle
+/System/Library/Extensions/PPTP.ppp/PlugIns/PPTP.vpn/PPTP
+/System/Library/Extensions/PPTP.ppp/PlugIns/PPTP.vpn/PPTP-vpn-Info.plist
+
+# VPN config file
+/var/preferences/SystemConfiguration/com.apple.RemoteAccessServers.plist
+
+# VPN binary
+/usr/sbin/vpnd
+
+# pppd config
+/etc/ppp
+
+# launch daemon config
+/Library/LaunchDaemons/com.apple.vpnd-ios.plist
