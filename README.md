@@ -1,6 +1,6 @@
 # vpnd-ios
 
-Apple’s vpnd lightly modified for operation on jailbroken iOS.
+Apple’s vpnd lightly modified for operation on jailbroken iOS. Run a PPTP VPN server on your jailbroken iDevice.
 
 The only supported VPN type is PPTP. IPSec is commented out and L2TP is not configured or known to work.
 
